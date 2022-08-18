@@ -10,3 +10,8 @@ Features:
 - Student: View exam schedule, Do exam, View exam history.
 - Teacher: Manage exams, questions bank, transcripts. Import questions from excel. Export transcripts to excel. 
 - Admin: Manage classes, subjects, users.
+
+Font-end: I use templates for Front-end
+- Website: https://www.free-css.com/free-css-templates/page257/evolo
+- Do Exam: https://uicookies.com/downloads/aside-free-html5-bootstrap-4-website-template-photography/
+- Admin: https://templatemag.com/dashio-bootstrap-admin-template/
