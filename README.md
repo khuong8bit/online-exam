@@ -1,5 +1,5 @@
 ### Online Multiple-choice Exam Website (A project at school)
-This is a my first project to get acquainted with Java web
+This is my first project to get acquainted with Java web
 
 Technicals: Servlet, JSP, Hibernate, MySQL
 - Design database, develop backend for website
